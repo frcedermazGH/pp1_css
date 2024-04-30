@@ -1,0 +1,16 @@
+.verticalBlock, .horizontalBlock {
+    padding: 5px;
+    width: 300px;
+    margin: 15px;
+}
+
+.verticalBlock{
+    border: 1px solid black;
+    border-radius: 5px;
+    display: block;
+}
+
+.horizontalBlock{
+    border: 1px dotted black;
+    display: inline-block;
+}

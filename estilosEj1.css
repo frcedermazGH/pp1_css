@@ -1,0 +1,13 @@
+body {
+    font-family: Tahoma;
+    color: white;
+    background-color: black;
+}
+
+h3 {
+    color: red;
+}
+
+#parrafoItalic {
+    font-style: italic;
+}
